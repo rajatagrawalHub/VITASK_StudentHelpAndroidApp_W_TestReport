@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706968655219",
+    "project_id": "vitask-430e5",
+    "storage_bucket": "vitask-430e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706968655219:android:dee32d986c0c5794942106",
+        "android_client_info": {
+          "package_name": "com.base.ProjectTestAndroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEo8L0lYogbIbK_xCc7oBY5kTHT8-GxgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

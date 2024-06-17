@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gradient_base_start">#5E0049</color>
+    <color name="gradient_base_end">#251522</color>
+    <color name="Base_Primary">#450738</color>
+    <color name="Log_Bg">#D8D4D4</color>
+    <color name="Dark_Text">#2E0024</color>
+    <color name="TF_BackGround">#FFF6F6</color>
+</resources>
